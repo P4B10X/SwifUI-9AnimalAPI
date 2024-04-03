@@ -1,0 +1,85 @@
+{
+  "animales": [
+    {
+      "id": 1,
+      "name": "León",
+      "location": ["África", "Asia"],
+      "prey": ["Antílopes", "Cebras"],
+      "biggest_threat": "Pérdida de hábitat y caza ilegal",
+      "diet": "Carnívoro",
+      "description": "El león es un felino majestuoso y poderoso, conocido por ser el rey de la selva. Vive en manadas lideradas por un macho dominante."
+    },
+    {
+      "id": 2,
+      "name": "Elefante",
+      "location": ["África", "Asia"],
+      "prey": ["Hierbas", "Hojas", "Frutas"],
+      "biggest_threat": "Caza furtiva y pérdida de hábitat",
+      "diet": "Herbívoro",
+      "description": "El elefante es el mamífero terrestre más grande del mundo. Son conocidos por sus largas trompas y grandes colmillos de marfil."
+    },
+    {
+      "id": 3,
+      "name": "Cebra",
+      "location": ["África"],
+      "prey": ["Hierbas", "Brotes"],
+      "biggest_threat": "Pérdida de hábitat y caza ilegal",
+      "diet": "Herbívoro",
+      "description": "La cebra es un animal herbívoro conocido por sus rayas blancas y negras. Vive en manadas en las llanuras africanas."
+    },
+    {
+      "id": 4,
+      "name": "Jirafa",
+      "location": ["África"],
+      "prey": ["Hojas", "Brotes", "Frutas"],
+      "biggest_threat": "Pérdida de hábitat y caza ilegal",
+      "diet": "Herbívoro",
+      "description": "La jirafa es conocida por su cuello largo y sus patas largas. Es el animal más alto del mundo y se alimenta principalmente de hojas de árboles altos."
+    },
+    {
+      "id": 5,
+      "name": "Lobo",
+      "location": ["América del Norte", "Eurasia"],
+      "prey": ["Ciervos", "Conejos", "Roedores"],
+      "biggest_threat": "Pérdida de hábitat y caza ilegal",
+      "diet": "Carnívoro",
+      "description": "El lobo es un depredador social que vive en manadas. Son conocidos por su aullido característico y su habilidad para cazar en grupo."
+    },
+    {
+      "id": 6,
+      "name": "Panda",
+      "location": ["China"],
+      "prey": ["Bambú", "Frutas", "Raíces"],
+      "biggest_threat": "Pérdida de hábitat y baja tasa de reproducción",
+      "diet": "Herbívoro",
+      "description": "El panda gigante es conocido por su pelaje blanco y negro. Se alimenta principalmente de bambú y es endémico de China."
+    },
+    {
+      "id": 7,
+      "name": "Cocodrilo",
+      "location": ["América", "África", "Asia", "Australia"],
+      "prey": ["Peces", "Aves", "Mamíferos acuáticos"],
+      "biggest_threat": "Pérdida de hábitat y caza ilegal",
+      "diet": "Carnívoro",
+      "description": "El cocodrilo es un reptil semiacuático que habita en regiones tropicales. Son depredadores temibles con mandíbulas poderosas."
+    },
+    {
+      "id": 8,
+      "name": "Pingüino",
+      "location": ["Antártida", "Sudáfrica", "Argentina", "Australia"],
+      "prey": ["Peces", "Calamares", "Krill"],
+      "biggest_threat": "Cambio climático y pesca excesiva",
+      "diet": "Piscívoro",
+      "description": "Los pingüinos son aves marinas adaptadas para la vida en el agua. Son excelentes nadadores y se alimentan principalmente de peces."
+    },
+    {
+      "id": 9,
+      "name": "Oso Polar",
+      "location": ["Ártico"],
+      "prey": ["Focas", "Peces", "Aves marinas"],
+      "biggest_threat": "Cambio climático y pérdida de hielo marino",
+      "diet": "Carnívoro",
+      "description": "El oso polar es el depredador marino más grande del mundo y está adaptado para vivir en el frío del Ártico. Son excelentes nadadores y cazadores."
+    }
+  ]
+}
