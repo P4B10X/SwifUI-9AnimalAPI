@@ -2,84 +2,84 @@
   "animales": [
     {
       "id": 1,
-      "name": "León",
-      "location": ["África", "Asia"],
-      "prey": ["Antílopes", "Cebras"],
-      "biggest_threat": "Pérdida de hábitat y caza ilegal",
-      "diet": "Carnívoro",
-      "description": "El león es un felino majestuoso y poderoso, conocido por ser el rey de la selva. Vive en manadas lideradas por un macho dominante."
+      "name": "Leon",
+      "location": ["Africa", "Asia"],
+      "prey": ["Antilopes", "Cebras"],
+      "biggest_threat": "Perdida de habitat y caza ilegal",
+      "diet": "Carnivoro",
+      "description": "El leon es un felino majestuoso y poderoso, conocido por ser el rey de la selva. Vive en manadas lideradas por un macho dominante."
     },
     {
       "id": 2,
       "name": "Tigre",
       "location": ["Asia"],
-      "prey": ["Ciervos", "Jabalíes", "Monos"],
-      "biggest_threat": "Caza furtiva y pérdida de hábitat",
-      "diet": "Carnívoro",
-      "description": "El tigre es el felino más grande del mundo y se caracteriza por sus rayas negras y anaranjadas. Es un cazador solitario y poderoso."
+      "prey": ["Ciervos", "Jabalies", "Monos"],
+      "biggest_threat": "Caza furtiva y perdida de habitat",
+      "diet": "Carnivoro",
+      "description": "El tigre es el felino mas grande del mundo y se caracteriza por sus rayas negras y anaranjadas. Es un cazador solitario y poderoso."
     },
     {
       "id": 3,
       "name": "Oso",
-      "location": ["América del Norte", "Eurasia", "Sudamérica", "Asia"],
+      "location": ["America del Norte", "Eurasia", "Sudamerica", "Asia"],
       "prey": ["Peces", "Bayas", "Insectos"],
-      "biggest_threat": "Pérdida de hábitat y caza ilegal",
-      "diet": "Omnívoro",
-      "description": "El oso es un mamífero grande y fuerte que se encuentra en varias partes del mundo. Su dieta es variada e incluye peces, bayas, frutas e insectos."
+      "biggest_threat": "Perdida de habitat y caza ilegal",
+      "diet": "Omnivoro",
+      "description": "El oso es un mamifero grande y fuerte que se encuentra en varias partes del mundo. Su dieta es variada e incluye peces, bayas, frutas e insectos."
     },
     {
       "id": 4,
       "name": "Jirafa",
-      "location": ["África"],
+      "location": ["Africa"],
       "prey": ["Hojas", "Brotes", "Frutas"],
-      "biggest_threat": "Pérdida de hábitat y caza ilegal",
-      "diet": "Herbívoro",
-      "description": "La jirafa es conocida por su cuello largo y sus patas largas. Es el animal más alto del mundo y se alimenta principalmente de hojas de árboles altos."
+      "biggest_threat": "Perdida de habitat y caza ilegal",
+      "diet": "Herbivoro",
+      "description": "La jirafa es conocida por su cuello largo y sus patas largas. Es el animal mas alto del mundo y se alimenta principalmente de hojas de arboles altos."
     },
     {
       "id": 5,
       "name": "Elefante",
-      "location": ["África", "Asia"],
+      "location": ["Africa", "Asia"],
       "prey": ["Hierbas", "Hojas", "Frutas"],
-      "biggest_threat": "Caza furtiva y pérdida de hábitat",
-      "diet": "Herbívoro",
-      "description": "El elefante es el mamífero terrestre más grande del mundo. Son conocidos por sus largas trompas y grandes colmillos de marfil."
+      "biggest_threat": "Caza furtiva y perdida de habitat",
+      "diet": "Herbivoro",
+      "description": "El elefante es el mamifero terrestre mas grande del mundo. Son conocidos por sus largas trompas y grandes colmillos de marfil."
     },
     {
       "id": 6,
       "name": "Zorro",
-      "location": ["América del Norte", "Eurasia", "Sudamérica", "Asia", "África"],
+      "location": ["America del Norte", "Eurasia", "Sudamerica", "Asia", "Africa"],
       "prey": ["Roedores", "Aves", "Insectos"],
-      "biggest_threat": "Caza furtiva y pérdida de hábitat",
-      "diet": "Omnívoro",
-      "description": "El zorro es un mamífero carnívoro y omnívoro que se encuentra en varias partes del mundo. Tiene un pelaje espeso y una cola esponjosa."
+      "biggest_threat": "Caza furtiva y perdida de habitat",
+      "diet": "Omnivoro",
+      "description": "El zorro es un mamifero carnivoro y omnivoro que se encuentra en varias partes del mundo. Tiene un pelaje espeso y una cola esponjosa."
     },
     {
       "id": 7,
       "name": "Lobo",
-      "location": ["América del Norte", "Eurasia", "Sudamérica"],
+      "location": ["America del Norte", "Eurasia", "Sudamerica"],
       "prey": ["Ciervos", "Conejos", "Roedores"],
-      "biggest_threat": "Pérdida de hábitat y caza ilegal",
-      "diet": "Carnívoro",
-      "description": "El lobo es un depredador social que vive en manadas. Son conocidos por su aullido característico y su habilidad para cazar en grupo."
+      "biggest_threat": "Perdida de habitat y caza ilegal",
+      "diet": "Carnivoro",
+      "description": "El lobo es un depredador social que vive en manadas. Son conocidos por su aullido caracteristico y su habilidad para cazar en grupo."
     },
     {
       "id": 8,
       "name": "Panda",
       "location": ["China"],
-      "prey": ["Bambú", "Frutas", "Raíces"],
-      "biggest_threat": "Pérdida de hábitat y baja tasa de reproducción",
-      "diet": "Herbívoro",
-      "description": "El panda gigante es conocido por su pelaje blanco y negro. Se alimenta principalmente de bambú y es endémico de China."
+      "prey": ["Bambu", "Frutas", "Raices"],
+      "biggest_threat": "Perdida de habitat y baja tasa de reproduccion",
+      "diet": "Herbivoro",
+      "description": "El panda gigante es conocido por su pelaje blanco y negro. Se alimenta principalmente de bambu y es endemico de China."
     },
     {
       "id": 9,
       "name": "Koala",
       "location": ["Australia"],
       "prey": ["Eucalipto", "Brotes", "Hojas"],
-      "biggest_threat": "Pérdida de hábitat y enfermedades",
-      "diet": "Herbívoro",
-      "description": "El koala es un marsupial arbóreo que se encuentra en Australia. Se alimenta principalmente de hojas de eucalipto y pasa la mayor parte del tiempo durmiendo."
+      "biggest_threat": "Perdida de habitat y enfermedades",
+      "diet": "Herbivoro",
+      "description": "El koala es un marsupial arboreo que se encuentra en Australia. Se alimenta principalmente de hojas de eucalipto y pasa la mayor parte del tiempo durmiendo."
     }
   ]
 }
