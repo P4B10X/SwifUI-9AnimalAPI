@@ -11,21 +11,21 @@
     },
     {
       "id": 2,
-      "name": "Elefante",
-      "location": ["África", "Asia"],
-      "prey": ["Hierbas", "Hojas", "Frutas"],
+      "name": "Tigre",
+      "location": ["Asia"],
+      "prey": ["Ciervos", "Jabalíes", "Monos"],
       "biggest_threat": "Caza furtiva y pérdida de hábitat",
-      "diet": "Herbívoro",
-      "description": "El elefante es el mamífero terrestre más grande del mundo. Son conocidos por sus largas trompas y grandes colmillos de marfil."
+      "diet": "Carnívoro",
+      "description": "El tigre es el felino más grande del mundo y se caracteriza por sus rayas negras y anaranjadas. Es un cazador solitario y poderoso."
     },
     {
       "id": 3,
-      "name": "Cebra",
-      "location": ["África"],
-      "prey": ["Hierbas", "Brotes"],
+      "name": "Oso",
+      "location": ["América del Norte", "Eurasia", "Sudamérica", "Asia"],
+      "prey": ["Peces", "Bayas", "Insectos"],
       "biggest_threat": "Pérdida de hábitat y caza ilegal",
-      "diet": "Herbívoro",
-      "description": "La cebra es un animal herbívoro conocido por sus rayas blancas y negras. Vive en manadas en las llanuras africanas."
+      "diet": "Omnívoro",
+      "description": "El oso es un mamífero grande y fuerte que se encuentra en varias partes del mundo. Su dieta es variada e incluye peces, bayas, frutas e insectos."
     },
     {
       "id": 4,
@@ -38,15 +38,33 @@
     },
     {
       "id": 5,
+      "name": "Elefante",
+      "location": ["África", "Asia"],
+      "prey": ["Hierbas", "Hojas", "Frutas"],
+      "biggest_threat": "Caza furtiva y pérdida de hábitat",
+      "diet": "Herbívoro",
+      "description": "El elefante es el mamífero terrestre más grande del mundo. Son conocidos por sus largas trompas y grandes colmillos de marfil."
+    },
+    {
+      "id": 6,
+      "name": "Zorro",
+      "location": ["América del Norte", "Eurasia", "Sudamérica", "Asia", "África"],
+      "prey": ["Roedores", "Aves", "Insectos"],
+      "biggest_threat": "Caza furtiva y pérdida de hábitat",
+      "diet": "Omnívoro",
+      "description": "El zorro es un mamífero carnívoro y omnívoro que se encuentra en varias partes del mundo. Tiene un pelaje espeso y una cola esponjosa."
+    },
+    {
+      "id": 7,
       "name": "Lobo",
-      "location": ["América del Norte", "Eurasia"],
+      "location": ["América del Norte", "Eurasia", "Sudamérica"],
       "prey": ["Ciervos", "Conejos", "Roedores"],
       "biggest_threat": "Pérdida de hábitat y caza ilegal",
       "diet": "Carnívoro",
       "description": "El lobo es un depredador social que vive en manadas. Son conocidos por su aullido característico y su habilidad para cazar en grupo."
     },
     {
-      "id": 6,
+      "id": 8,
       "name": "Panda",
       "location": ["China"],
       "prey": ["Bambú", "Frutas", "Raíces"],
@@ -55,31 +73,13 @@
       "description": "El panda gigante es conocido por su pelaje blanco y negro. Se alimenta principalmente de bambú y es endémico de China."
     },
     {
-      "id": 7,
-      "name": "Cocodrilo",
-      "location": ["América", "África", "Asia", "Australia"],
-      "prey": ["Peces", "Aves", "Mamíferos acuáticos"],
-      "biggest_threat": "Pérdida de hábitat y caza ilegal",
-      "diet": "Carnívoro",
-      "description": "El cocodrilo es un reptil semiacuático que habita en regiones tropicales. Son depredadores temibles con mandíbulas poderosas."
-    },
-    {
-      "id": 8,
-      "name": "Pingüino",
-      "location": ["Antártida", "Sudáfrica", "Argentina", "Australia"],
-      "prey": ["Peces", "Calamares", "Krill"],
-      "biggest_threat": "Cambio climático y pesca excesiva",
-      "diet": "Piscívoro",
-      "description": "Los pingüinos son aves marinas adaptadas para la vida en el agua. Son excelentes nadadores y se alimentan principalmente de peces."
-    },
-    {
       "id": 9,
-      "name": "Oso Polar",
-      "location": ["Ártico"],
-      "prey": ["Focas", "Peces", "Aves marinas"],
-      "biggest_threat": "Cambio climático y pérdida de hielo marino",
-      "diet": "Carnívoro",
-      "description": "El oso polar es el depredador marino más grande del mundo y está adaptado para vivir en el frío del Ártico. Son excelentes nadadores y cazadores."
+      "name": "Koala",
+      "location": ["Australia"],
+      "prey": ["Eucalipto", "Brotes", "Hojas"],
+      "biggest_threat": "Pérdida de hábitat y enfermedades",
+      "diet": "Herbívoro",
+      "description": "El koala es un marsupial arbóreo que se encuentra en Australia. Se alimenta principalmente de hojas de eucalipto y pasa la mayor parte del tiempo durmiendo."
     }
   ]
 }
